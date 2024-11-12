@@ -1,3 +1,12 @@
+Info:
+Customers can build, manage, and communicate with AI powered companions with TalkFusion, a SaaS platform created with Next.js and React. By remembering past talks, these companions use Pinecone for long-term memory, which improves personalization. The platform's Pro plan, which integrates Stripe for subscription management, provides premium capabilities. Clerk manages user authentication, while Prisma connected to a MySQL database securely manages data, including companion profiles. TalkFusion is scalable and utilizes React's component-based architecture with Next.js for server-side rendering. By guaranteeing a responsive design, Tailwind CSS offers a unified user experience across all platforms. Because Vercel is used for platform deployment, serverless execution and smooth scalability to manage heavy traffic are supported.
+
+![Upgrade](https://github.com/user-attachments/assets/69836ef0-7d10-4fe6-bc07-fa2ffd37828b)
+![Chat Example](https://github.com/user-attachments/assets/c66ad5be-a276-416f-a5a3-4398966e9e35)
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
